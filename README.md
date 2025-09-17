@@ -1,2 +1,5 @@
-# google_meet
-SOTA
+Это наш API для работы Google Meet Recorder. 
+
+Он принимает ссылку на Google Meet.
+
+Он подключает нашего бота на звонок, делает запись экрана и потом сохраняет запись в Google Drive.
